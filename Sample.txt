@@ -1,3 +1,1 @@
 sample text here.
-second line#
-Third line
